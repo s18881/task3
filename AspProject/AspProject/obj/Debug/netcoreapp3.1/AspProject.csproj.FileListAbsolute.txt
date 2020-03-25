@@ -1,0 +1,17 @@
+/Users/bodzinho327/Projects/AspProject/AspProject/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/bodzinho327/Projects/AspProject/AspProject/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/bodzinho327/Projects/AspProject/AspProject/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/bodzinho327/Projects/AspProject/AspProject/bin/Debug/netcoreapp3.1/AspProject.deps.json
+/Users/bodzinho327/Projects/AspProject/AspProject/bin/Debug/netcoreapp3.1/AspProject.runtimeconfig.json
+/Users/bodzinho327/Projects/AspProject/AspProject/bin/Debug/netcoreapp3.1/AspProject.runtimeconfig.dev.json
+/Users/bodzinho327/Projects/AspProject/AspProject/bin/Debug/netcoreapp3.1/AspProject.dll
+/Users/bodzinho327/Projects/AspProject/AspProject/bin/Debug/netcoreapp3.1/AspProject.pdb
+/Users/bodzinho327/Projects/AspProject/AspProject/obj/Debug/netcoreapp3.1/AspProject.csprojAssemblyReference.cache
+/Users/bodzinho327/Projects/AspProject/AspProject/obj/Debug/netcoreapp3.1/AspProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/bodzinho327/Projects/AspProject/AspProject/obj/Debug/netcoreapp3.1/AspProject.AssemblyInfoInputs.cache
+/Users/bodzinho327/Projects/AspProject/AspProject/obj/Debug/netcoreapp3.1/AspProject.AssemblyInfo.cs
+/Users/bodzinho327/Projects/AspProject/AspProject/obj/Debug/netcoreapp3.1/AspProject.RazorTargetAssemblyInfo.cache
+/Users/bodzinho327/Projects/AspProject/AspProject/obj/Debug/netcoreapp3.1/staticwebassets/AspProject.StaticWebAssets.Manifest.cache
+/Users/bodzinho327/Projects/AspProject/AspProject/obj/Debug/netcoreapp3.1/staticwebassets/AspProject.StaticWebAssets.xml
+/Users/bodzinho327/Projects/AspProject/AspProject/obj/Debug/netcoreapp3.1/AspProject.dll
+/Users/bodzinho327/Projects/AspProject/AspProject/obj/Debug/netcoreapp3.1/AspProject.pdb
